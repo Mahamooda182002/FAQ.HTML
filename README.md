@@ -1,4 +1,5 @@
 #FAQ.Html
+
 FAQs Page
 This is a simple HTML page template for creating a Frequently Asked Questions (FAQs) page. The page displays a list of common questions along with their corresponding answers.
 
